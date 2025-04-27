@@ -55,3 +55,6 @@ Overall, this project not only simplifies file management but also serves as a v
 ## Acknowledgments
 
 Inspired by the need for better file organization in personal and professional environments.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/File-Organizer-Script/blob/main/LICENSE) file for details.
